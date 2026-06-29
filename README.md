@@ -1,5 +1,13 @@
-I am a Full-Stack Developer and AI enthusiast dedicated to building intelligent, scalable solutions. My technical expertise bridges the gap between powerful back-end systems and intuitive front-end interfaces, with a primary focus on Python and JavaScript ecosystems—specifically utilizing React.js for seamless user experiences and FastAPI for high-performance API development.
+Hi, I'm Suleman Gulzar 👋
 
-Beyond standard web development, I am passionate about data-driven technology, specializing in web scraping and automation to unlock insights and streamline workflows. Currently, I am applying these skills at my projects.
+I’m a Full-Stack Developer and AI enthusiast focused on building intelligent, scalable, and user-friendly solutions.
 
-Whether I am optimizing data pipelines or crafting interactive web applications, I am driven by a focus on clean, efficient code and the potential of AI to enhance digital infrastructure.
+My technical expertise connects powerful back-end systems with intuitive front-end interfaces. I primarily work within the Python and JavaScript ecosystems, using:
+
+React.js to create seamless user experiences
+FastAPI to build high-performance APIs
+Web scraping and automation to unlock insights and streamline workflows
+
+I’m passionate about data-driven technology and currently apply these skills across my projects.
+
+Whether I’m optimizing data pipelines or developing interactive web applications, I focus on writing clean, efficient code and exploring how AI can enhance digital infrastructure.
